@@ -5,31 +5,31 @@ const services = [
     title: "Digital Marketing Services",
     tag: "Brand Growth",
     description:
-      "Result-driven digital marketing services designed to improve online visibility, generate leads, build brand awareness, and support business growth across India.",
+      "Result-driven digital marketing services designed to improve online visibility, generate leads, build brand awareness and support business growth across India.",
   },
   {
     title: "SEO & Automation Solutions",
     tag: "Smart Systems",
     description:
-      "SEO services and automation solutions that help businesses improve search rankings, streamline workflows, reduce manual work, and grow more efficiently.",
+      "SEO services and automation solutions that help businesses improve search rankings, streamline workflows, reduce manual work and grow more efficiently.",
   },
   {
     title: "Institutional Furniture Trading",
     tag: "Commercial Supply",
     description:
-      "Reliable institutional furniture trading and commercial furniture supply for offices, schools, institutions, workspaces, and infrastructure projects.",
+      "Reliable institutional furniture trading and commercial furniture supply for offices, schools, institutions, workspaces and infrastructure projects.",
   },
   {
     title: "Civil & General Order Supplier",
     tag: "Project Supply",
     description:
-      "Civil material supply and general order supplier services for businesses, contractors, institutions, and project-based procurement requirements.",
+      "Civil material supply and general order supplier services for businesses, contractors, institutions and project-based procurement requirements.",
   },
   {
     title: "Raw Metal Trading",
     tag: "Industrial Trade",
     description:
-      "Raw metal trading services focused on dependable sourcing, industrial material supply, timely delivery, and B2B trading requirements across India.",
+      "Raw metal trading services focused on dependable sourcing, industrial material supply, timely delivery and B2B trading requirements across India.",
   },
 ];
 

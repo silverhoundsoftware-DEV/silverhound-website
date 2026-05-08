@@ -27,8 +27,8 @@ export default function HeroSection() {
 
           <p className="mt-5 max-w-md text-sm font-light leading-6 text-white/70">
             Silverhound Enterprises provides Digital Marketing Services, SEO & Automation
-            solutions, Institutional Furniture Trading, Civil and General order supply,
-            and Raw metal trading services for businesses, Institutions, and Commercial
+            solutions, Institutional Furniture Trading, Civil and General order supply
+            and Raw metal trading services for businesses, Institutions and Commercial
             projects across India.
           </p>
         </div>

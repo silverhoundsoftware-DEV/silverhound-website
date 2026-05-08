@@ -18,7 +18,7 @@ export default function ContactSection() {
 
                     <p className="mt-6 max-w-xl text-sm leading-7 text-white/65 sm:text-base">
                         Contact Silverhound Enterprises in Panchkula for Digital Marketing, SEO &
-                        Automation,Institutional furniture trading, Civil and General order supply
+                        Automation, Institutional furniture trading, Civil and General order supply
                         and Raw metal trading services across India.
                     </p>
 

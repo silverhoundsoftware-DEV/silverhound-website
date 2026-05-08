@@ -11,13 +11,13 @@ const milestones = [
     year: "2021",
     title: "Raw Metal Trading",
     description:
-      "Expanded into industrial material sourcing, supply movement, and raw metal trade.",
+      "Expanded into industrial material sourcing, supply movement and raw metal trade.",
   },
   {
     year: "2022",
     title: "NFT & Crypto Ventures",
     description:
-      "Explored blockchain-led opportunities across digital assets, NFTs, and cryptocurrency.",
+      "Explored blockchain-led opportunities across digital assets, NFTs and cryptocurrency.",
   },
   {
     year: "2023",
@@ -29,7 +29,7 @@ const milestones = [
     year: "2025",
     title: "Digital & Automation",
     description:
-      "Moved into digital marketing, advertising, and automation-led business solutions.",
+      "Moved into digital marketing, advertising and automation-led business solutions.",
   },
 ];
 

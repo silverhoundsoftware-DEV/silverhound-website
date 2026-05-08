@@ -11,7 +11,7 @@ const faqs = [
   {
     question: "Do you provide Digital Marketing and SEO services in Panchkula?",
     answer:
-      "Yes. We provide Digital Marketing, SEO, Digital advertising and Automation solutions for businesses in Panchkula, Haryana, and across India.",
+      "Yes. We provide Digital Marketing, SEO, Digital advertising and Automation solutions for businesses in Panchkula, Haryana and across India.",
   },
   {
     question: "Do you offer institutional furniture trading and supply?",
@@ -58,7 +58,7 @@ export default function FAQSection() {
           </h2>
 
           <p className="mt-6 max-w-md text-sm leading-7 text-white/55">
-            Explore common questions about Our services, Trading capabilities,
+            Explore common questions about our services, Trading capabilities,
             Supply support and Digital solutions.
           </p>
         </div>

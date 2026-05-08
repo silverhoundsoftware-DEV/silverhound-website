@@ -15,7 +15,7 @@ export default function Footer() {
 
                     <p className="mt-6 text-sm leading-7 text-white/55">
                         Silverhound Enterprises operates across digital services,
-                        industrial trade, institutional supply, and automation-led business
+                        industrial trade, institutional supply and automation-led business
                         solutions for modern enterprises.
                     </p>
                 </div>
